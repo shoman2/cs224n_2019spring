@@ -4,3 +4,4 @@
 ### 1.word2vec and word senses
 ### 2.word2vecs
 ### 3.neural nets
+### 4.dependency parsing  
